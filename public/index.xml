@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B2 Tech Blogs</title>
+    <link>https://example.org/</link>
+    <description>Recent content on B2 Tech Blogs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Dec 2024 23:49:44 -0500</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meeting the Creator</title>
+      <link>https://example.org/posts/my-first-post/</link>
+      <pubDate>Fri, 06 Dec 2024 23:49:44 -0500</pubDate>
+      <guid>https://example.org/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hello - I&amp;rsquo;m Cody. I&amp;rsquo;m a 26 year old that lives in Orlando Florida and works remote for a government contractor. I live with my Fiance Laura and pug son named CJ. We are both from up north (PA and DC).&lt;/p&gt;&#xA;&lt;p&gt;I decided that it was finally time for me to create my blog site I have been wanting to make and now I am doing it. Im creating a site mainly to share my war stories about what I deal with at work during my day to day. As mentioned above, I work for a defense government contractor and I am a Kubernetes Platform Engineer. We have a unqiue platform and there are alot of fun stories I can tell you about.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
